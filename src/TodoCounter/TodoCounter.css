@@ -1,0 +1,14 @@
+.TodoCounter{
+    font-size: 2em;
+    text-align: center;
+    text-align: center;
+  
+    display: table;
+    margin: 0 auto;
+    font-family: "Dank Mono", ui-monospace, monospace;
+    background: linear-gradient(400deg, #e05252 0%, #79bffc 25%, #79bffc, #9952e0 75%, #e05252 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 100px;
+    
+}
