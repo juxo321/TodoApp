@@ -1,8 +1,7 @@
 .TodoCounter{
     font-size: 2em;
     text-align: center;
-    text-align: center;
-  
+    text-align: center; 
     display: table;
     margin: 0 auto;
     font-family: "Dank Mono", ui-monospace, monospace;
